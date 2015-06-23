@@ -1,0 +1,24 @@
+.jumbotron {
+
+
+    background-image: url("http://barnimages.com/wp-content/uploads/2015/06/PG0906_BarnImages.com_-4-1024x683.jpg");
+    background-size: cover;
+    color: white;
+
+}
+
+
+.jumbotron p {
+
+text-align: center;
+
+}
+
+.jumbotron h1 {
+
+text-align: center;
+
+}
+
+
+
