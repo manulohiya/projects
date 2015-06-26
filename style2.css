@@ -1,0 +1,9 @@
+.contact-form{ margin-top:50px;}
+.contact-form .textarea{ min-height:220px; width: 100%; resize:none; font-size: 40px;}
+.form-control{ font-size: 40px; margin-top: 10px; box-shadow:none; border-color: black; height:49px; width: 100%;}
+.form-control:focus{ box-shadow:none; border-color:#00b09c;}
+.form-control-feedback{ line-height:50px;}
+.main-btn{ font-size: 40px; background:blue; border-color:#00b09c; color: white; min-height: 40px; min-width: 500px;}
+.main-btn:hover{ background:#00a491;color:#fff;}
+.form-control-feedback {line-height: 50px;top: 0px;
+}
